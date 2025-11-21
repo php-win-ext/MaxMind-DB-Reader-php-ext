@@ -1,0 +1,9 @@
+.deps
+*.la
+*.lo
+*.o
+.libs/
+build/
+modules/
+run-tests.php
+tmp-php.ini
