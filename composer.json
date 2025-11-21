@@ -24,6 +24,7 @@
     "priority": 50,
     "support-zts": true,
     "support-nts": true,
+    "source-method": "pre-packaged-source",
     "build-path": "MaxMind-DB-Reader-php/ext",
     "configure-options": [
       {
